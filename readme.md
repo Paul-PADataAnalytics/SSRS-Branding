@@ -39,16 +39,16 @@ I have included a image of the spectrum.  Note that red is defined as #FF0000 an
 
 The included packages are as follows:
 *    UI All White.zip
-   *        Use this to see which UI elements have undefinable colours.
+           Use this to see which UI elements have undefinable colours.
 *    UI All White Primary Spectrum.zip
-   *        All UI colours are white except for the Primary Colour section, they are as above.
+           All UI colours are white except for the Primary Colour section, they are as above.
 *    UI All White Secondary Spectrum.zip
-   *        All UI colours are white except for the Secondary Colour section, they are as above. 
+           All UI colours are white except for the Secondary Colour section, they are as above. 
 *    UI All White Neutral Primary Spectrum.zip
-   *        All UI colours are white except for the neutralPrimary section, they are as above.
+           All UI colours are white except for the neutralPrimary section, they are as above.
 *    UI All White Neutral Secondary Spectrum.zip
-   *        All UI colours are white except for the neutralSecondary section, they are as above.
+           All UI colours are white except for the neutralSecondary section, they are as above.
 *    UI All White Neutral Tertiary Spectrum.zip
-   *        All UI colours are white except for the neutralTertiary section, they are as above.
+           All UI colours are white except for the neutralTertiary section, they are as above.
 
 For lack of a reasonable way to test them, I have ommited the KPI and report chart colour sections.
